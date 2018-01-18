@@ -27,6 +27,7 @@ class FlaskrTestCase(unittest.TestCase):
         index = self.findSrc(completePage)
         return completePage[index[0] : index[1]]
 
+    #rough test for just getting the name of uploaded file
     def findSrc(self, s):
         i = s.find('img src="')+10
         j = i + 1
