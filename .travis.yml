@@ -4,5 +4,6 @@ python:
 
 install:
   - pip install unittest2
+  - pip install Flask
 
 script: python flaskr_tests.py
