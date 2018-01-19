@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d05faf8-792f-4d2e-9654-7b008c18397f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8d05faf8-792f-4d2e-9654-7b008c18397f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +28,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="15" />
-              <folding />
+              <folding>
+                <marker date="1516310150244" expanded="true" signature="105:1162" ph="..." />
+                <marker date="1516310150244" expanded="true" signature="910:1067" ph="..." />
+                <marker date="1516310150244" expanded="true" signature="980:1047" ph="..." />
+                <marker date="1516310150244" expanded="true" signature="1095:1162" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="245" />
     <option name="y" value="69" />
     <option name="width" value="1133" />
@@ -191,13 +194,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="245" y="69" width="1133" height="800" extended-state="1" />
-    <editor active="true" />
+    <frame x="245" y="69" width="1133" height="800" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1915846" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.233672" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.233672" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -252,7 +254,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1516310150244" expanded="true" signature="105:1162" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="910:1067" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="980:1047" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="1095:1162" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -285,7 +292,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="15" />
-          <folding />
+          <folding>
+            <marker date="1516310150244" expanded="true" signature="105:1162" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="910:1067" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="980:1047" ph="..." />
+            <marker date="1516310150244" expanded="true" signature="1095:1162" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
