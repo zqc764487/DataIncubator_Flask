@@ -1,19 +1,19 @@
 import os
 import io
-import main
+import app
 import unittest
 import tempfile
 
 class FlaskrTestCase(unittest.TestCase):
 
     def setUp(self):
-        self.db_fd, main.app.config['DATABASE'] = tempfile.mkstemp()
-        main.app.config['TESTING'] = True
-        self.app = main.app.test_client()
+        self.db_fd, app.app.config['DATABASE'] = tempfile.mkstemp()
+        app.app.config['TESTING'] = True
+        self.app = app.app.test_client()
 
     def tearDown(self):
         os.close(self.db_fd)
-        os.unlink(main.app.config['DATABASE'])
+        os.unlink(app.app.config['DATABASE'])
 
     def test_uploadPage(self):
         rv = self.app.get('/')
